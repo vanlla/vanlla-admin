@@ -1,0 +1,81 @@
+export default {
+  menu: {
+    dashboard: '首页',
+    system: '系统管理',
+    role: '角色管理',
+    roleList: '角色列表',
+    roleAdd: '角色新增',
+    roleEdit: '角色编辑',
+    user: '用户管理',
+    userList: '用户列表',
+    userAdd: '用户新增',
+    userEdit: '用户编辑',
+    menu: '菜单管理',
+    schedule: '任务管理',
+    scheduleList: '任务列表',
+    scheduleAdd: '任务新增',
+    scheduleEdit: '任务编辑',
+    robot: '机器人管理',
+    robotList: '机器人列表',
+    robotAdd: '机器人新增',
+    robotEdit: '机器人编辑',
+    blog: '博客管理',
+    article: '文章管理',
+    articleList: '文章列表',
+    articleAdd: '文章新增',
+    articleEdit: '文章编辑',
+    articleView: '文章查看',
+    category: '分类管理',
+    categoryList: '分类列表',
+    categoryAdd: '分类新增',
+    categoryEdit: '分类编辑',
+    tag: '标签管理',
+    tagList: '标签列表',
+    tagAdd: '标签新增',
+    tagEdit: '标签编辑',
+    about: '关于管理',
+    aboutDetail: '关于详情',
+    aboutEdit: '关于编辑'
+  },
+  navbar: {
+    logOut: '退出登录',
+    profile: '个人资料',
+    updatePwd: '修改密码',
+    home: '首页'
+  },
+  login: {
+    title: 'web-flash',
+    errorAccount: '请输入5到32位的数字和字母',
+    errorPassword: '密码至少位5位',
+    logIn: '登录',
+    username: '账号',
+    password: '密码'
+  },
+  common: {
+    add: '新增',
+    edit: '编辑',
+    delete: '删除',
+    search: '搜索',
+    reset: '重置',
+    submit: '提交',
+    cancel: '取消',
+    clear: '清除',
+    back: '返回',
+    export: '导出',
+    save: '保存',
+    operate: '操作',
+    select: '请选择'
+  },
+  tips: {
+    switchLanguageTip: '切换语言成功'
+  },
+  roleMgr: {
+    roleName: '角色名称',
+    selectSort: '选择排序',
+    roleNameDesc: '角色名称降序',
+    roleNameAsc: '角色名称升序',
+    roleDescription: '角色描述',
+    roleStatus: '角色状态',
+    rolePerms: '角色权限'
+  }
+}
